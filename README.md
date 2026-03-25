@@ -6,4 +6,6 @@ I take no responsibility for any damages or issues caused by using these.
 
 These can break at any point in time due to HA update
 
+And yes, these were written with AI assistance as I don't have time and skills to write it myself. But hey, this shit works, so ... 
+
 42!
