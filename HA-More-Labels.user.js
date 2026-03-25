@@ -6,7 +6,7 @@
 // @match        *://*/lovelace/*
 // @match        *://*/config/*
 // @homepage     https://github.com/Hakun1n/Home-Assistant-user-scripts
-// @downloadURL  https://raw.githubusercontent.com/Hakun1n/Home-Assistant-user-scripts/refs/heads/master/HA-More-Labels.user.js
+// @downloadURL  https://raw.githubusercontent.com/Hakun1n/Home-Assistant-user-scripts/refs/heads/main/HA-More-Labels.user.js
 // @grant        none
 // @version      1.0
 // ==/UserScript==
